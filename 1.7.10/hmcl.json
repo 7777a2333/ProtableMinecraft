@@ -12,7 +12,7 @@
   "localization": "def",
   "autoDownloadThreads": false,
   "downloadThreads": 64,
-  "downloadType": "mcbbs",
+  "downloadType": "bmclapi",
   "autoChooseDownloadType": true,
   "versionListSource": "balanced",
   "configurations": {},
